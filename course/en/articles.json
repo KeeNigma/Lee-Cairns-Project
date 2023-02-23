@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Content Outline",
+    "displayTitle": "Content Outline",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63edfcdde2ab574dbeb725de",
+    "_parentId": "63e65a4f2424964029515874",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ee02d4d402d30676b70d47",
+    "_parentId": "63ee02d4d402d30676b70d46",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ee0dd3d402d30676b70f1b",
+    "_parentId": "63ee0dd3d402d30676b70f1a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "Article title",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef45180e8ffd70ddcb32e6",
+    "_parentId": "63ef45180e8ffd70ddcb32e5",
+    "_type": "article"
+  },
+  {
+    "title": "Universal Design Principals",
+    "displayTitle": "Universal Design Principals",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef46fed142de4fd0fd52d2",
+    "_parentId": "63ef46fed142de4fd0fd52d1",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Learning Personas",
+    "displayTitle": "Learning Personas",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63f342ca33628b28b58d629a",
+    "_parentId": "63f342562559b27ea793aa9d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "External SMEs",
+    "displayTitle": "External SMEs",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ee224de2de5a072abd0d3f",
+    "_parentId": "63ee0dd3d402d30676b70f1a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Design Process Commentary",
+    "displayTitle": "Design Process Comentary",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63f33c522bb4bd4b154c2b1c",
+    "_parentId": "63ef46fed142de4fd0fd52d1",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  },
+  {
+    "title": "Learning Outcomes",
+    "displayTitle": "Learning Outcomes",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63f342e21963cb21f1b1b18f",
+    "_parentId": "63f342562559b27ea793aa9d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  }
+]
