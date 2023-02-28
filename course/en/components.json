@@ -1,0 +1,632 @@
+[
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Content outline",
+    "displayTitle": "",
+    "body": "<p>Although there are plans to add more modules in the future. Below are the content outlines for the first 4 modules.</p><p>&nbsp;</p><p>The learning outcomes below will be learner facing at the beginning of each module and all either replicate the learning outcomes of the course as a whole or in some cases, contribute to a larger course learning objective.</p><p>&nbsp;</p><p>These videos will be animated, given the nature of cyber security and the requirement for the content to be updated. I decided that, although a larger initial investment of time, animation would allow us a modular approach to updating sections of the video without loosing continuity and quality.</p>",
+    "_id": "63ee000085d4e534467c3e49",
+    "_parentId": "63edfcde85d4e534467c3e41",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": true,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee00cbd3456e46e582bcb1.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Content Outline 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee010f8c34de0f31ccd46d.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Content Outline"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Wireframes",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63ee0c30d402d30676b70e93",
+    "_parentId": "63ee02d4d402d30676b70d48",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": true,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee0d140aacd2134a05bff8.PNG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Wireframe Mod 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee0d14f1d4590b2d18f73d.PNG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Wireframe Mod 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee0d144d8a718bae87b3a6.PNG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Wireframe Mod 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63ee0d14b13eaa81b0d81893.PNG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Wireframe Mod 4"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "<p>During the scripting and storyboarding process. I quickly discovered that a traditional storyboard and script separate were not working for my personal creative process (due largely to my inability to accurately depict what I wanted using images.)</p><p>&nbsp;</p><p>After some experimentation with my process. I opted for a<strong> style sheet</strong> to convey my aesthetic (found below)</p><p>&nbsp;</p><p>This in conjunction with <span style=\"color:hsl(0,75%,60%);\"><strong>screen direction</strong></span> sitting beside my <span style=\"color:hsl(0,0%,0%);\"><strong>voice over script</strong></span> allowed me to mentally visualise a beat by beat animation along side a voiceover.</p><p>&nbsp;</p><p>I ended up using these same graphical elements as part of my prototype.</p>",
+    "_id": "63ee106b0e8ffd70ddcb2f41",
+    "_parentId": "63ee0dd3d402d30676b70f1c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63ee10ceb13eaa81b0d81895.png",
+      "small": "course/en/assets/63ee10ceb13eaa81b0d81895.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "<p>When it came to writing the scripts (<a href=\"https://1drv.ms/u/s!AupVQfwsO7xajz88RgELMsEOvGvJ?e=SLr1nn\" target=\"_blank\" rel=\"noopener noreferrer\">found here</a>) I was asking as SME.&nbsp;<br>There were one or two instances where I required specialists in certain areas, to both contribute original information and to quality check my own.</p><p>&nbsp;</p><p>I used Office 365 to facilitate this, enabling the SMEs to contribute prior to me finalising the scrips.</p>",
+    "_id": "63ee237022f8d30a88225748",
+    "_parentId": "63ee224e3e94da24fecb91f6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63ee2380bd9c4244036672d4.png",
+      "small": "course/en/assets/63ee2380bd9c4244036672d4.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "<p>Due to this course being a certification module that requires completion of all modules, a linear flow model was decided upon. With each model having it's own content (a video) and assessment (eLearning) gated by completion of the previous module.</p><p>&nbsp;</p><p>This will enable a gradual build in understanding and will make adding additional modules easier should they need to be (as we know where the learner is up to in their learning journey.</p><p>&nbsp;</p><p>A core and spoke model was considered (with general information on cyber security being the core and the other modules forming the spokes.) however we require all modules to be completed and the worry would be that learners would choose the spokes they found more interesting first and interest would wane once those spokes were completed.</p><p>&nbsp;</p><p>Not pictured below is the \"Introduction to the LMS\" video, as this is an optional component for the learner and is therefore not part of the linear flow model.</p>",
+    "_id": "63ee3d8de2ab574dbeb72820",
+    "_parentId": "63ee32b7180ded43d16c1fcf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63ee3d98564615e7d13fe07a.png",
+      "small": "course/en/assets/63ee3d98564615e7d13fe07a.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Below is a working prototype of the LMS course and interface.&nbsp;<br>&nbsp;</p><p>Contained within are the first 4 videos.&nbsp;</p><p>&nbsp;</p><p>The linear flow is managed by gated by the completion of a video watch or, in the case of the assessment components, the submission of answers to the three questions per module.</p><p>&nbsp;</p><p>Modules past the first 4 have been included for the prototype to demonstrate the full scope of the course.</p>",
+    "_id": "63ef4542d402d30676b71119",
+    "_parentId": "63ef45180e8ffd70ddcb32e7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63ef6e8bdfd7b42845cdd74e",
+    "_parentId": "63ef46fed142de4fd0fd52d3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63ef6e97ec12775c16be710d.png",
+      "small": "course/en/assets/63ef6e97ec12775c16be710d.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "Text",
+    "body": "<p>There were a number of universal design principals that I considered in the design of this course.</p><p>&nbsp;</p><p>In video production the key one was the use of subtitles within the video.</p><p>&nbsp;</p><p>For the LMS I also made use of a number of extensions available in Adapt (left) to ensure my course was as accessible and scaffolded for the learner.</p>",
+    "_id": "63ef6ea92e834802d12ce16f",
+    "_parentId": "63ef46fed142de4fd0fd52d3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p class=\"MsoNormal\"><strong>Review of the course:</strong><o:p></o:p></p><p class=\"MsoNormal\">Overall I found this course and the design process that came from it to be extremely helpful and enlightening, resulting in me adding to and adapting previous learning I had done as part of my previous teaching experience.<o:p></o:p></p><p class=\"MsoNormal\">I have already begun to include elements of the digital learning design process into my day-to-day work and have begun to pass on “best practice” to my colleagues.<br><o:p></o:p></p><p class=\"MsoNormal\"><strong>Key learning:</strong><o:p></o:p></p><p class=\"MsoNormal\">The biggest take away from the course and the element that has had the most impact was the discussion around job roles, proper process and the idea of “removing one hat before putting on another.” In my current job role I am generally responsible for 90% of the design and implementation process. Through that module in particular, I found myself recognising a number of bad habits and “shortcuts” I was taking. In actuality these shortcuts were meaning I was missing vital parts of the design process, and in actuality I was saving no time at all, as I would have to go back and rectify and clarify parts of the process later down the line. Following the course I have been much more cognisant of proper process and have found that I am much more efficient and clear about how to proceed when developing learning.<o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\">The concept of a “learning journey” from a macro level was also something I had never actively thought of, certainly nothing I had put to paper in any meaningful way. I have used this tool on a weekly basis since learning about it and it has really aided me in designing better learning with the learner at the centre of my focus. Learning Journey maps along with learner personas have really helped me to avoid just making learning for me (a common mistake from the reading I have done).<br><o:p></o:p></p><p class=\"MsoNormal\"><strong>Review of my finished project:</strong><o:p></o:p></p><p class=\"MsoNormal\">I am really happy with how my project turned out. I believe it is an effective learning tool for what could be a very dry subject and meets the needs of my learner personas. The linear flow model I decided on and the implementation of that flow within the ‘adapt’ e-authoring tool works well to guide the learning scaffold the learning with familiarity and signposting. On reflection I recognise that a core and spoke model would also have been appropriate, with modules 1-3 forming a core. However I stand by my decision, as with a large learner base, I can’t ensure learners would be motivated to select spokes that they felt were “less relevant” to them, especially given that this is certification course.<o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\">I am glad a decided on the medium of animation as I believe it is the best medium to convey complex topics with metaphors, condense learning into microlearning length chunks and maintain style and quality when adding, amending, or removing elements when needed. I will admit that I underestimated the development time of fully animated video. This is something I will be cognisant of going forward and adjust timelines appropriately.&nbsp;<o:p></o:p></p><p class=\"MsoNormal\">Overall I believe I created a high quality and effective piece of learning that we can continue to grow, adapt and improve as needed.<o:p></o:p></p>",
+    "_id": "63f341db9ee1502658601897",
+    "_parentId": "63f33c52242496402951853d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learner Personas",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f342ca33628b28b58d629e",
+    "_parentId": "63f342ca33628b28b58d629b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": true,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63e644314c55fc06f47a52c4.JPG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persona 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63e6443155c5a5d0a73f46e6.JPG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persona 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63e64431ed7c3efa0a72220d.JPG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persona 3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/63e64431ec12775c16be708b.JPG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persona 4"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Persona Commentary",
+    "displayTitle": "Persona Commentary",
+    "body": "<p>In light of this eLearning course being promoted across the council (3000+ computer users), I thought it appropriate to develop 4 learning personas to best capture the workforce. This proved to be a broad enough spectrum to effectively reflect the target audiance, without being too much infomation to effectively analyse.</p><p>&nbsp;</p><p>I discussed and approved these learner personas with a number of managers across the council to ensure I had an reflection of the workforce.</p>",
+    "_id": "63f342ca33628b28b58d629f",
+    "_parentId": "63f342ca33628b28b58d629c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Design Considerations",
+    "displayTitle": "Design Considerations",
+    "body": "",
+    "_id": "63f342ca33628b28b58d62a0",
+    "_parentId": "63f342ca33628b28b58d629d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Micro Learning",
+        "body": "<p>Time pressure for CPD was a consistently agreed upon pressure and barrier to learning. This combined with the variety of working/learning environments means that learning would be most successful if it can be in bitesize chunks.<br>&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/63e64b3f6a6d7b12e5d56c96.png",
+          "attribution": ""
+        },
+        "_classes": "align-image-right"
+      },
+      {
+        "title": "Asynchronus",
+        "body": "<p>Due to having a large number of new members of staff constantly coming into the authority throughout the year (15% New staff Nov '21 - '22), people will likely engage with the learning at different periods of the year.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/63e64c85fcc6a95022d61cb3.png",
+          "attribution": ""
+        },
+        "_classes": "align-image-right"
+      },
+      {
+        "title": "Engagement",
+        "body": "<p>This will be key to reaching those who have a negative view on eLearning. Using video as the main medium of delivery will set the course aside from previous text based eLearning that has previously been delivered. It will also make the course more accessible from a literacy and cognitive point of view&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/63e64d3cf1d4590b2d18f6db.png",
+          "attribution": ""
+        },
+        "_classes": "align-image-right"
+      },
+      {
+        "title": "Scaffolding for LMS",
+        "body": "<p>No instruction on how to navigate the LMS currently exists. Many members of staff only interact with the LMS once every 2 years (for compliance training) and so, are not familiar with the interface.&nbsp;<br>In addition to this, many certifications have been started but not completed due to progress/completion not being clear.</p><p><br>&nbsp;A pre-course instruction around navigation could be developed and rolled out to this, and all other courses on the LMS.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/63e64e1aed7c3efa0a722210.png",
+          "attribution": ""
+        },
+        "_classes": "align-image-right"
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f342e21963cb21f1b1b192",
+    "_parentId": "63f342e21963cb21f1b1b190",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63e6507d55c5a5d0a73f46e7.png",
+      "small": "course/en/assets/63e6507d55c5a5d0a73f46e7.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Course Learning Outcomes",
+    "displayTitle": "Course Learning Outcomes",
+    "body": "<p>By the end of the course, learners will be able to ...</p><p>…<span style=\"color:hsl(180,75%,60%);\"><strong>recognise</strong> </span>the need for cyber security within North Tyneside Council<br>…<span style=\"color:hsl(90,75%,60%);\"><strong>identify</strong></span> personal data, as defined by UKGDPR.</p><p><span style=\"color:hsl(0, 0%, 100%);\">…</span><span style=\"color:hsl(240,75%,60%);\"><strong>review </strong></span>North Tyneside's procedure for handling data.</p><p>…<span style=\"color:hsl(90,75%,60%);\"><strong>implement </strong></span>good internet safety practices at home.<br>…<span style=\"color:hsl(90,75%,60%);\"><strong>implement </strong></span>good internet safety practices at work.<br><br>&nbsp;</p>",
+    "_id": "63f342e21963cb21f1b1b193",
+    "_parentId": "63f342e21963cb21f1b1b191",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Module Learning Outcomes will be detailed later."
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f73a83386d7d226bcb0054",
+    "_parentId": "63f737cbe1d82822c79cc03b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63f73a8e7c6dc4ab861a4802.png",
+      "small": "course/en/assets/63f73a8e7c6dc4ab861a4802.png",
+      "attribution": "",
+      "_url": "https://keenigma.github.io/CyberSecurityPrototype/",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Click the image to be taken to a woprking prototype of the course page.&nbsp;</p><p>&nbsp;</p><p>This page will show off all LMS interactions and also hosts the 4 completed video prototypes within modules 1-4.</p><p>&nbsp;</p><p>NB: Sequential locking (linear flow) has been disabled for the first few modules to allow for ease of project assessment.</p>",
+    "_id": "63f73b0c7783416c1b42d129",
+    "_parentId": "63f737cbe1d82822c79cc03b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  }
+]
